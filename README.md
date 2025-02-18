@@ -1,5 +1,7 @@
-## Hi there 👋
-
+➣ CS Student at ODU 
+➣ Currently learning Java & Game Development
+➣ Currently working on an osr2mp3 local server 
+➣ Fun Fact: OSU! is my favorite game ^-^
 <!--
 **tr-e/tr-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
